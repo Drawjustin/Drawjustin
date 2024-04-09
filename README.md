@@ -72,5 +72,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswhd9033)](https://solved.ac/guswhd9033/)
 [![Drawjustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drawjustin&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/Drawjustin/github-readme-stats)
 
-[DrawJustin's Tistory](https://hjustin.tistory.com/){: target="_blank"}
-[DrawJustin's Velog](velog.io/@drawjustin){: target="_blank"}
+[DrawJustin's Tistory](https://hjustin.tistory.com/))
+[(velog.io/@drawjustin)](https://velog.io/@drawjustin/posts)
