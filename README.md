@@ -52,7 +52,6 @@
         <img src="https://img.shields.io/badge/kubernetes-764ABC?style=for-the-badge&logo=redux&logoColor=white">
         <img src="https://img.shields.io/badge/jenkins-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
         <img src="https://img.shields.io/badge/gerrit-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
-        
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
