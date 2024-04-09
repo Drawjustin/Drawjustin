@@ -66,8 +66,8 @@
 </div>
 
 ## 🔧 Tech Stack 🔧
-> [DrawJustin's Tistory](https://hjustin.tistory.com/))
-> [(velog.io/@drawjustin)](https://velog.io/@drawjustin/posts)
+> [DrawJustin's Tistory](https://hjustin.tistory.com/))<br>
+> [DrawJustin's velog](https://velog.io/@drawjustin/posts)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drawjustin&layout=compact&theme=tokyonight)](https://github.com/Drawjustin)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswhd903)](https://solved.ac/guswhd903/)
