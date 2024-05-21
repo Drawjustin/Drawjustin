@@ -23,6 +23,8 @@
         <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
         <img src="https://img.shields.io/badge/junit-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
         <img src="https://img.shields.io/badge/kafka-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+        <img src="https://img.shields.io/badge/RabbitMQ-F7B93E?style=for-the-badge&logo=redux&logoColor=white">
+        <img src="https://img.shields.io/badge/WebSocket-FF4785?style=for-the-badge&logo=redux&logoColor=white">
         <img src="https://img.shields.io/badge/android studio-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
