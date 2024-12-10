@@ -27,7 +27,6 @@
         <img src="https://img.shields.io/badge/webSocket-FF4785?style=for-the-badge&logo=redux&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/android studio-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">  -->
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
 <!--         <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> -->
 <!--         <img src="https://img.shields.io/badge/C++-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> -->
 <!--         <img src="https://img.shields.io/badge/opencv-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"> -->
