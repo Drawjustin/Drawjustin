@@ -30,6 +30,7 @@
 <!--         <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> -->
 <!--         <img src="https://img.shields.io/badge/C++-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> -->
 <!--         <img src="https://img.shields.io/badge/opencv-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"> -->
+            <img src="https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
     </div>
     <!-- ai -->
     <p><strong>AI</strong></p>
